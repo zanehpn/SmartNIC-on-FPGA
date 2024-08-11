@@ -20,5 +20,5 @@ This is a collection of research about SmartNIC on FPGA. The sharing principle o
 * Demystifying Datapath Accelerator EnhancedOff-path SmartNIC by Wangzeke.[https://arxiv.org/pdf/2402.03041]
 
 # list of useful surveys
-[IEEE ACCESS 2024] A Comprehensive Survey on SmartNICs:Architectures, Development Models, Applications, and Research Directions by JORGE CRICHIGNO [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10620201]
+[IEEE ACCESS 2024] A Comprehensive Survey on SmartNICs:Architectures, Development Models, Applications, and Research Directions by JORGE CRICHIGNO
  
