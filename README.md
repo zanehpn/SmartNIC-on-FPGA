@@ -9,7 +9,6 @@ This is a collection of research about SmartNIC on FPGA. The sharing principle o
 * [MICRO 2023] The AMD 400-G Adaptive SmartNIC System on Chip: A Technology Preview by Dastidar, J.
 * [MICRO 2023] LogNIC: A High-Level Performance Model for SmartNICs by Zerui Guo, et.al.
 * [FPGA 2023] FPGAs and Their Evolving Role in Domain Specific Architectures: A Case Study of the AMD 400G Adaptive SmartNIC/DPU SoC by Dastidar, J.
-* [DAC 2023]  Accelerating DNN Inference with Heterogeneous Multi-DPU Engines by Du, ZL.
 * [VLDB 2023] AMNES: Accelerating the Computation of Data Correlation Using FPGAs by ETH.
 * [OSDI 2023] Characterizing Off-path SmartNIC for Accelerating Distributed Systems by Xingda Wei.
 * [ISCA 2023] SmartDS: Middle-Tier-centric SmartNIC Enabling Application-aware Message Split for Disaggregated Block Storage. Jie Zhang, et.al.
