@@ -6,6 +6,7 @@ This is a collection of research about SmartNIC on FPGA. The sharing principle o
 * [HPCA 2024] SmartDIMM: In-Memory Acceleration of Upper Layer Protocols by Neel Patel (PIM and SmartNIC)
 * [FPGA 2024] SuperNIC: An FPGA-Based, Cloud-Oriented SmartNIC by Will Lin.
 * [ISCA 2024] HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing by Jinghan Huang.
+* [NSDI 2024] Harmonic: Hardware-assisted RDMA Performance Isolation for Public Clouds
 * [MICRO 2023] The AMD 400-G Adaptive SmartNIC System on Chip: A Technology Preview by Dastidar, J.
 * [MICRO 2023] LogNIC: A High-Level Performance Model for SmartNICs by Zerui Guo, et.al.
 * [FPGA 2023] FPGAs and Their Evolving Role in Domain Specific Architectures: A Case Study of the AMD 400G Adaptive SmartNIC/DPU SoC by Dastidar, J.
@@ -13,10 +14,19 @@ This is a collection of research about SmartNIC on FPGA. The sharing principle o
 * [OSDI 2023] Characterizing Off-path SmartNIC for Accelerating Distributed Systems by Xingda Wei.
 * [ISCA 2023] SmartDS: Middle-Tier-centric SmartNIC Enabling Application-aware Message Split for Disaggregated Block Storage. Jie Zhang, et.al.
 * [SIGMETRICS 2023] Towards Accelerating Data Intensive Application's Shuffle Process Using SmartNICs. Jiaxin Lin, et.al.
+* [CoNEXT 2023] Memory-efficient Random Forests in FPGA SmartNICs by Andrea Monterubbiano.
+* [ICS 2023] Software-Hardware Co-design of Heterogeneous SmartNIC System for Recommendation Model Inference and Training by Anqi Guo.
+
+  
+
 
 
 # list of journal papers
 * [TC 2024] Honeycomb: Ordered Key-Value Store Acceleration on an FPGA-Based SmartNIC by Liu, JY.
+* [TC 2024] DPU-Direct: Unleashing Remote Accelerators via Enhanced RDMA for Disaggregated Datacenters.
+* [TN 2024] Recursive Multi-Tree Construction With Efficient Rule Sifting for Packet Classification on FPGA by Yao Xin.
+
+
 
 # list of arxiv papers
 * FPsPIN: An FPGA-based Open-Hardware Research Platform for Processing in the Network by Timo Schneider,Torsten Hoefler.[https://arxiv.org/pdf/2405.16378]
